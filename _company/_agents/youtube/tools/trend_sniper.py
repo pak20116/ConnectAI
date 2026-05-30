@@ -11,6 +11,12 @@ Requires:  pip install google-api-python-client requests
 """
 import os, json, time, random, datetime, sys
 
+# Fix Windows console encoding (cp1252 → UTF-8) for emoji / Korean output
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(HERE, "trend_sniper.json")
 ACCOUNT_PATH = os.path.join(HERE, "youtube_account.json")
@@ -74,7 +80,7 @@ def main():
 
     print(f"\n🎯 [트렌드 스나이퍼] 키워드 {chosen} 스캔 시작...")
     youtube = build('youtube', 'v3', developerKey=api_key)
-    last_month = (datetime.datetime.utcnow() - datetime.timedelta(days=30)).isoformat("T") + "Z"
+    last_month = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=30)).strftime("%Y-%m-%dT%H:%M:%SZ")
     sniper_data = []
     for q in chosen:
         print(f"📡 [{q}] 검색 중...")

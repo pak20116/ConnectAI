@@ -12,6 +12,12 @@ from collections import Counter
 # v2.89.49 — DeprecationWarning(utcnow 등) 노이즈 제거. 사용자 채팅창 출력에 끼면 못생김.
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+# Fix Windows console encoding (cp1252 → UTF-8) for emoji / Korean output
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ACCOUNT = os.path.join(HERE, "youtube_account.json")
 CONFIG  = os.path.join(HERE, "my_videos_check.json")
@@ -131,6 +137,9 @@ def main():
     api_key = (acct.get("YOUTUBE_API_KEY") or "").strip()
     handle  = (acct.get("MY_CHANNEL_HANDLE") or "").strip()
     chan_id = (acct.get("MY_CHANNEL_ID") or "").strip()
+    # Accept full channel URL — extract bare ID (UC...)
+    if chan_id and "/channel/" in chan_id:
+        chan_id = chan_id.rstrip("/").split("/channel/")[-1]
     if not api_key:
         print("❌ YOUTUBE_API_KEY 미설정. youtube_account.json에 채워주세요.")
         sys.exit(1)
@@ -185,7 +194,7 @@ def main():
 
     # === 2. 최근 영상 목록 ===
     print(f"🔍 최근 {lookback}일 영상 가져오는 중...", file=sys.stderr)
-    after = (datetime.datetime.utcnow() - datetime.timedelta(days=lookback)).isoformat("T") + "Z"
+    after = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=lookback)).strftime("%Y-%m-%dT%H:%M:%SZ")
     sr = youtube.search().list(part="snippet", channelId=cid, maxResults=top_n,
                                 order="date", publishedAfter=after, type="video").execute()
     vids = [(it["id"]["videoId"], it["snippet"]["title"], it["snippet"]["publishedAt"])

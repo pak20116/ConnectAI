@@ -8,6 +8,12 @@ data-driven recommendations.
 import os, json, sys, time, datetime, statistics, re
 from collections import Counter
 
+# Fix Windows console encoding (cp1252 → UTF-8) for emoji / Korean output
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ACCOUNT = os.path.join(HERE, "youtube_account.json")
 REPORT  = os.path.join(HERE, "channel_full_analysis_report.md")
@@ -85,6 +91,9 @@ def main():
     api_key = (acct.get("YOUTUBE_API_KEY") or "").strip()
     handle  = (acct.get("MY_CHANNEL_HANDLE") or "").strip()
     chan_id = (acct.get("MY_CHANNEL_ID") or "").strip()
+    # Accept full channel URL — extract bare ID (UC...)
+    if chan_id and "/channel/" in chan_id:
+        chan_id = chan_id.rstrip("/").split("/channel/")[-1]
     if not api_key:
         print("❌ YOUTUBE_API_KEY가 비어있어요. 외부 연결 패널 → YouTube Data API 카드에 입력해주세요.")
         sys.exit(1)

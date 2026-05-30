@@ -8,6 +8,12 @@ Reads from youtube_account.json (api key, watched channels) and
 comment_harvester.json (volume settings)."""
 import os, json, sys, time, datetime
 
+# Fix Windows console encoding (cp1252 → UTF-8) for emoji / Korean output
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ACCOUNT = os.path.join(HERE, "youtube_account.json")
 CONFIG  = os.path.join(HERE, "comment_harvester.json")
@@ -55,7 +61,7 @@ def main():
         print("❌ pip install google-api-python-client")
         sys.exit(1)
     youtube = build("youtube", "v3", developerKey=api_key)
-    after = (datetime.datetime.utcnow() - datetime.timedelta(days=lookback)).isoformat("T") + "Z"
+    after = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=lookback)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     harvested = []
     for ch in watched:

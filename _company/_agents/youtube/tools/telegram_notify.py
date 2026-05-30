@@ -11,6 +11,12 @@ UI-managed home (input via Skills ⚙️). Falls back to legacy config.md
 and finally to youtube_account.json so older setups keep working."""
 import os, json, sys, time, re
 
+# Fix Windows console encoding (cp1252 → UTF-8) for emoji / Korean output
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ACCOUNT = os.path.join(HERE, "youtube_account.json")
 # tools/ → youtube/ → _agents/ → brain root

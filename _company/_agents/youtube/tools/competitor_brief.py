@@ -8,6 +8,12 @@ Reads youtube_account.json (api key, competitors, ollama, model) and
 competitor_brief.json (volume)."""
 import os, json, sys, time, datetime
 
+# Fix Windows console encoding (cp1252 → UTF-8) for emoji / Korean output
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ACCOUNT = os.path.join(HERE, "youtube_account.json")
 CONFIG  = os.path.join(HERE, "competitor_brief.json")
@@ -67,7 +73,7 @@ def main():
         print("❌ pip install google-api-python-client requests")
         sys.exit(1)
     youtube = build("youtube", "v3", developerKey=api_key)
-    after = (datetime.datetime.utcnow() - datetime.timedelta(days=lookback)).isoformat("T") + "Z"
+    after = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=lookback)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     snapshot = []
     for ch in competitors:
