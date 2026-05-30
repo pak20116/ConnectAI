@@ -1,7 +1,7 @@
 # 🎯 공동 목표
 
 ## 올해 핵심 목표
-- [ ] 10,000 Youtube subscriber
+- [ ] 100,000 Youtube subscriber
 
 ## 1개월 내 단기 목표
 - Create 3 Youtube channels
