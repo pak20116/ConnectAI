@@ -20,3 +20,6 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-31] 영상 제작 파이프라인의 자동화 흐름(`run_final_deployment_test.py` 등)이 실제 콘텐츠 배포 및 편집 단계에서 오류 없이 실행되도록 시스템 안정성을 실시간으로 모니터링하라. → 산출물 sessions/2026-05-31T17-37/developer.md
 - [2026-05-31] run_final_deployment_test.py 스크립트 내 파일 경로 오류(`[Errno 2] No such file or directory`)를 즉시 디버깅하고, 시스템 안정성 검증 로직(`VSM` 통합 로직)이 오류 없이 성공적으로 실행되도록 수정 및 재실행하라. → 산출물 sessions/2026-05-31T18-07/developer.md
 - [2026-05-31] run_final_deployment_test.py 스크립트 내 파일 경로 오류(`[Errno 2] No such file or directory`)를 즉시 디버깅하고, 시스템 안정성 검증 로직(`VSM` 통합 로직)이 오류 없이 성공적으로 실행되도록 수정 및 재실행하여 파이프라인의 최종 안정성을 확보하라. → 산출물 sessions/2026-05-31T18-22/developer.md
+- [2026-05-31] 시스템 안정성 확보 후, 레오의 실행 계획에 맞춰 영상 제작 파이프라인의 자동화 흐름(`run_final_deployment_test.py` 등)이 오류 없이 End-to-End 실행되도록 모니터링하며 최종 통합 작업을 시작하라. → 산출물 sessions/2026-05-31T18-37/developer.md
+- [2026-05-31] run_final_deployment_test.py 스크립트 내 파일 경로 오류(`[Errno 2] No such file or directory`)를 즉시 디버깅하고 시스템 안정성 검증 로직(`VSM` 통합 로직)이 오류 없이 성공적으로 실행되도록 수정 및 재실행하여 파이프라인의 최종 안정성을 확보하라. → 산출물 sessions/2026-05-31T19-07/developer.md
+- [2026-05-31] run_final_deployment_test.py 스크립트 내 파일 경로 오류(`[Errno 2] No such file or directory`)를 즉시 디버깅하고, 시스템 안정성 검증 로직(`VSM` 통합 로직)이 오류 없이 성공적으로 실행되도록 수정 및 재실행하여 파이프라인의 최종 안정성을 확보하라. → 산출물 sessions/2026-05-31T19-22/developer.md
