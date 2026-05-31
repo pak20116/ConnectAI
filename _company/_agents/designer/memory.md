@@ -21,3 +21,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-31] 최종 확정된 썸네일 자산(`final_thumbnail_concept_final_optimized.png`)과 영상 인트로/아웃트로 디자인을 기반으로 실제 영상 편집에 필요한 모든 시각적 요소를 최종 점검하고 준비하라. → 산출물 sessions/2026-05-31T17-37/designer.md
 - [2026-05-31] 최종 확정된 썸네일 자산(`final_thumbnail_concept_final_optimized.png`)과 영상 인트로/아웃트로 디자인을 기반으로 실제 영상 편집에 필요한 모든 시각적 요소를 최종 점검하고 준비하라. → 산출물 sessions/2026-05-31T18-37/designer.md
 - [2026-05-31] 최적화된 실행 계획에 따라, 가장 높은 CTR을 보인 제목과 확정된 브랜드 가이드라인(#2C3E50 등)을 엄격하게 적용하여 최종 썸네일 자산 제작을 즉시 시작하라. → 산출물 sessions/2026-05-31T19-37/designer.md
+- [2026-05-31] 최종 확정된 썸네일 사양과 브랜드 가이드라인(#2C3E50 적용)을 엄격하게 준수하여 `final_thumbnail_concept_final_optimized.png` 파일을 즉시 생성하고 확보하라. → 산출물 sessions/2026-05-31T19-52/designer.md
