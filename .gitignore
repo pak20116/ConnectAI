@@ -11,3 +11,4 @@ Thumbs.db
 # Secrets — API keys, tokens, OAuth credentials
 youtube_account.json
 telegram_setup.json
+oauth.local.json
