@@ -3,6 +3,7 @@ import requests
 import json
 import time
 import sys
+import threading
 from typing import Optional, Union
 from pathlib import Path
 
@@ -11,7 +12,6 @@ if sys.stdout and hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 if sys.stderr and hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
-
 
 # 텔레그램 봇 토큰과 채팅 ID 설정
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8732529778:AAE-iEa574wM59_uCW8zg2V8MhkfWVxnMMY")
@@ -69,6 +69,136 @@ def send_telegram_document(file_path: str, caption: str = "", token: str = TELEG
             print(f"응답: {e.response.text}")
         return None
 
+def listen_telegram_updates(token: str = TELEGRAM_BOT_TOKEN, chat_id: str = TELEGRAM_CHAT_ID):
+    """
+    사용자가 보낸 텔레그램 메시지를 수신하여 응답합니다.
+    /approvals, /approve, /reject 명령어를 처리합니다.
+    """
+    if not token or not chat_id:
+        print("Error: 텔레그램 봇 토큰과 챗 ID가 설정되지 않았습니다.")
+        return
+
+    company_dir = Path(__file__).resolve().parent.parent
+    pending_dir = company_dir / "approvals" / "pending"
+    history_dir = company_dir / "approvals" / "history"
+    
+    url = f"https://api.telegram.org/bot{token}/getUpdates"
+    send_url = f"https://api.telegram.org/bot{token}/sendMessage"
+    
+    print("="*60)
+    print("🤖 텔레그램 양방향 수신기(Listener) 시작...")
+    print(f"   - 허용된 채팅 ID: {chat_id}")
+    print("="*60)
+    
+    offset = None
+    
+    while True:
+        try:
+            params = {"timeout": 10}
+            if offset:
+                params["offset"] = offset
+                
+            response = requests.get(url, params=params, timeout=15)
+            if response.status_code != 200:
+                time.sleep(5)
+                continue
+                
+            updates = response.json().get("result", [])
+            for update in updates:
+                offset = update["update_id"] + 1
+                
+                message = update.get("message")
+                if not message:
+                    continue
+                    
+                sender_id = str(message.get("from", {}).get("id", ""))
+                # 등록된 사용자 ID가 아니면 응답하지 않음 (보안)
+                if sender_id != chat_id:
+                    continue
+                    
+                text = (message.get("text") or "").strip()
+                if not text:
+                    continue
+                    
+                print(f"📥 [수신] {text}")
+                
+                # 명령어 분기 처리
+                if text.startswith("/start") or text.startswith("/help"):
+                    reply = (
+                        "🤖 **ConnectAI 비서 봇 양방향 서비스가 시작되었습니다.**\n\n"
+                        "💡 **사용 가능한 명령어:**\n"
+                        "• `/approvals` - 승인 대기 중인 액션 목록을 조회합니다.\n"
+                        "• `/approve <파일명>` - 특정 액션을 승인합니다.\n"
+                        "• `/reject <파일명>` - 특정 액션을 반려합니다."
+                    )
+                    requests.post(send_url, json={"chat_id": chat_id, "text": reply, "parse_mode": "Markdown"})
+                    
+                elif text.startswith("/approvals"):
+                    # 대기 파일 확인
+                    pending_files = []
+                    if pending_dir.exists():
+                        pending_files = [p for p in pending_dir.glob("*") if p.is_file()]
+                        
+                    if not pending_files:
+                        reply = "✅ 현재 대기 중인 승인 요청이 없습니다."
+                    else:
+                        reply = "📋 **승인 대기 중인 액션 목록:**\n\n"
+                        for i, f in enumerate(pending_files, 1):
+                            preview = ""
+                            try:
+                                with open(f, "r", encoding="utf-8") as file:
+                                    preview = file.read(200)
+                            except Exception:
+                                preview = "(내용을 읽을 수 없음)"
+                            
+                            reply += f"{i}. `{f.name}`\n"
+                            reply += f"```\n{preview}\n```\n"
+                            reply += f"👉 승인: `/approve {f.name}` | 반려: `/reject {f.name}`\n\n"
+                            
+                    requests.post(send_url, json={"chat_id": chat_id, "text": reply, "parse_mode": "Markdown"})
+                    
+                elif text.startswith("/approve"):
+                    filename = text.replace("/approve", "").strip()
+                    if not filename:
+                        reply = "⚠️ 승인할 파일명을 입력해주세요. 예: `/approve action_1.json`"
+                    else:
+                        target_file = pending_dir / filename
+                        if target_file.exists() and target_file.is_file():
+                            history_dir.mkdir(parents=True, exist_ok=True)
+                            dest_file = history_dir / filename
+                            try:
+                                target_file.rename(dest_file)
+                                reply = f"✅ **승인 완료:** `{filename}` 파일이 history 폴더로 이동되었습니다."
+                            except Exception as e:
+                                reply = f"❌ 승인 처리 실패: {e}"
+                        else:
+                            reply = f"⚠️ 대기 목록에서 `{filename}` 파일을 찾을 수 없습니다."
+                    requests.post(send_url, json={"chat_id": chat_id, "text": reply, "parse_mode": "Markdown"})
+                    
+                elif text.startswith("/reject"):
+                    filename = text.replace("/reject", "").strip()
+                    if not filename:
+                        reply = "⚠️ 반려할 파일명을 입력해주세요. 예: `/reject action_1.json`"
+                    else:
+                        target_file = pending_dir / filename
+                        if target_file.exists() and target_file.is_file():
+                            try:
+                                target_file.unlink()
+                                reply = f"❌ **반려 완료:** `{filename}` 파일이 삭제되었습니다."
+                            except Exception as e:
+                                reply = f"❌ 반려 처리 실패: {e}"
+                        else:
+                            reply = f"⚠️ 대기 목록에서 `{filename}` 파일을 찾을 수 없습니다."
+                    requests.post(send_url, json={"chat_id": chat_id, "text": reply, "parse_mode": "Markdown"})
+                    
+                else:
+                    reply = f"📝 **메시지를 수신했습니다:**\n\"{text}\"\n\n명령어는 `/help`를 입력해주세요."
+                    requests.post(send_url, json={"chat_id": chat_id, "text": reply, "parse_mode": "Markdown"})
+                    
+        except Exception as e:
+            print(f"⚠️ 수신 루프 에러: {e}")
+            time.sleep(5)
+
 def watch_sessions_and_reports(poll_interval: int = 5):
     """
     _company/sessions 폴더와 에이전트 폴더들을 모니터링하여,
@@ -80,7 +210,7 @@ def watch_sessions_and_reports(poll_interval: int = 5):
     
     history_file = Path(__file__).resolve().parent / "telegram_sent_history.json"
     
-    # 제외할 확장자 목록 (.md 파일 및 소스코드, 설정파일 등)
+    # 제외할 확장자 목록
     EXCLUDED_EXTENSIONS = {'.md', '.py', '.pyc', '.json', '.jsonl', '.gitkeep', '.gitignore'}
     
     # 이전 전송 이력 로드
@@ -135,16 +265,14 @@ def watch_sessions_and_reports(poll_interval: int = 5):
                 if not record:
                     is_new_or_modified = True
                 else:
-                    # 마지막 전송 시점보다 수정 시각이 1초 이상 최신이거나 파일 크기가 달라진 경우
                     if mtime > record.get("mtime", 0) + 1.0 or file_size != record.get("size", 0):
                         is_new_or_modified = True
                         
                 if is_new_or_modified:
-                    # 파일 쓰기가 완료될 때까지 대기 (마지막 수정 후 최소 3초 경과 확인)
+                    # 파일 쓰기가 완료될 때까지 대기
                     if time.time() - mtime < 3.0:
                         continue
                         
-                    # 텔레그램으로 보낼 캡션 제목 작성
                     parts = filepath.parts
                     caption = "📄 새 산출물이 감지되었습니다."
                     
@@ -184,12 +312,16 @@ def watch_sessions_and_reports(poll_interval: int = 5):
         time.sleep(poll_interval)
 
 if __name__ == "__main__":
-    import sys
     if len(sys.argv) > 1 and sys.argv[1] == "watch":
+        # 수신 리스너를 백그라운드 스레드로 실행
+        listener_thread = threading.Thread(target=listen_telegram_updates, daemon=True)
+        listener_thread.start()
+        
+        # 파일 감시 루프를 메인 스레드에서 실행
         watch_sessions_and_reports()
     else:
         print("💡 사용법:")
-        print("  - 백그라운드 모니터링 실행: python telegram_notifier.py watch")
-        print("  - 파이썬 코드에서 함수 호출:")
+        print("  - 백그라운드 모니터링 및 수신 리스너 동시 실행: python telegram_notifier.py watch")
+        print("  - 파이썬 코드에서 단방향 함수 호출:")
         print("      from telegram_notifier import send_telegram_document")
         print("      send_telegram_document('파일경로', '설명')")
