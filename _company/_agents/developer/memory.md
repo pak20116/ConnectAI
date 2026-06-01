@@ -72,3 +72,8 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-01] 현빈이 선정한 최고 ROI 액션(L_sync 최적화)에 따라, 코다리의 설계에 기반하여 시스템 안정성 확보를 위한 구체적인 자동화 스크립트(P1 Action)를 즉시 실행하고 결과를 보고하라. → 산출물 sessions/2026-06-01T15-07/developer.md
 - [2026-06-01] business가 확정한 Phase 3 실행 항목에 대해 시스템 안정성 확보를 위한 구체적인 자동화/프로세스 수정 작업의 기술적 실행 계획(스크립트 설계 및 API 통합 방안)을 수립하라. → 산출물 sessions/2026-06-01T15-22/developer.md
 - [2026-06-01] 시스템 안정성 확보를 위한 핵심 자동화 스크립트 및 모듈 구현 착수 (Phase 3 실행 항목에 기반하여 코다리의 설계에 따라 구체적인 API 통합 방안 및 스크립트 작성) → 산출물 sessions/2026-06-01T15-52/developer.md
+- [2026-06-01] Designer가 확정한 '자동화된 썸네일 생성 시각적 일관성 체크리스트'를 실제 자동화 시스템(스크립트/API)에 통합하기 위한 기술적 구현 방안 및 필요한 데이터 매핑을 설계하라. → 산출물 sessions/2026-06-01T16-22/developer.md
+- [2026-06-01] Designer가 제공한 'Visual Consistency Checklist' 및 Data Mapping Specification을 기반으로, VCVM(Visual Consistency Validator Module)의 핵심 API 함수(`validate_color_usage`, `run_visual_checklist`)의 프로토타입 구현을 즉시 시작하고 초기 데이터 매핑 로직을 설계하라. → 산출물 sessions/2026-06-01T16-37/developer.md
+- [2026-06-01] Designer가 제공한 시각적 일관성 체크리스트 및 데이터 매핑 사양(session/2026-06-01T16-37/designer.md)을 기반으로, 자동화된 썸네일 생성 프로세스에 통합될 최종 API/스크립트 로직을 설계하고 구현하라. → 산출물 sessions/2026-06-01T16-52/developer.md
+- [2026-06-01] Designer가 정의한 시각적 일관성 체크리스트(`element_rules`, `layout_constraints`)와 Mock Data를 기반으로, VCVM 모듈의 최종 품질 게이트 기능을 구현하고 실제 이미지 분석 모듈과의 통합을 즉시 시작하라. → 산출물 sessions/2026-06-01T17-07/developer.md
+- [2026-06-01] Designer가 제공한 시각적 일관성 체크리스트(`element_rules`, `layout_constraints`)와 Mock Data를 기반으로 VCVM 모듈의 핵심 함수(`validate_color_usage`, `run_visual_checklist`)를 실제 코드로 구현하는 작업을 즉시 시작하라. → 산출물 sessions/2026-06-01T17-22/developer.md
