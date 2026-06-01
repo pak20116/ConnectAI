@@ -1900,3 +1900,717 @@ _2026-05-31 14:40 · 최근 30일 분석 · 영상 15개_
 
 
 ---
+
+
+# 🎬 Echoes Of Everyday
+_2026-05-31 15:12 · 최근 30일 분석 · 영상 15개_
+
+> **19명** 구독자 · **2.4K** 누적 조회 · **15개** 영상 · **0.1년** 운영
+> 핸들 `@echoesofeveryday-eo` · 🌍 US · 영상당 평균 **157** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 15개 (월 15.0개) | 🟢 활발 |
+| 조회수 중간값 | **132** | 최고 612 · 최저 36 |
+| 좋아요율 | **8.65%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **2.20%** | 🟢 좋음 (업계 0.3~1%) |
+| 평균 길이 | 2시간 1분 | 제목 평균 77자 |
+| Shorts | 2개 / 15 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 612 | 10 (1.6%) | 1 (0.2%) | 2시간 30분 | 2026-05-23(토) | Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi  |
+| 2🔥 | 257 | 13 (5.1%) | 6 (2.3%) | 2시간 31분 | 2026-05-07(목) | City Café ☕ Where the City Slows Down (2.5 Hours of Upliftin |
+| 3🔥 | 255 | 8 (3.1%) | 4 (1.6%) | 2시간 5분 | 2026-05-02(토) | [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs fo |
+| 4🔥 | 225 | 11 (4.9%) | 8 (3.6%) | 2시간 32분 | 2026-05-11(월) | [Caution] This Video For Productivity Boosters! ☀️ 2.5 Hours |
+| 5👍 | 161 | 10 (6.2%) | 2 (1.2%) | 2시간 32분 | 2026-05-20(수) | Morning Focus ☕ 2.5 Hours of Uplifting Soft Pop & Lo-Fi Chil |
+| 6👍 | 150 | 10 (6.7%) | 2 (1.3%) | 2시간 30분 | 2026-05-08(금) | [Warning] The 2.5 Hours Focus Trick for Ultra-Productivity ☕ |
+| 7👍 | 142 | 12 (8.5%) | 1 (0.7%) | 2시간 31분 | 2026-05-13(수) | Warm Café Evenings ☕ Quiet Mind, Sharp Focus (2.5 Hours of U |
+| 8👍 | 132 | 8 (6.1%) | 4 (3.0%) | 2시간 3분 | 2026-05-02(토) | [Deep Focus] Ordinary Workday ☀️ 2 Hours Smooth Chill Beats  |
+| 9🥶 | 98 | 8 (8.2%) | 0 (0.0%) | 51초 | 2026-05-13(수) | POV: You finally found the perfect deep work vibes ☕️ |
+| 10🥶 | 87 | 7 (8.0%) | 2 (2.3%) | 2시간 30분 | 2026-05-05(화) | [Deep Focus] Sunlit Coastal Café ☀️ 2.5 Hours Bossa Nova & J |
+| 11🥶 | 65 | 8 (12.3%) | 4 (6.2%) | 1시간 0분 | 2026-05-02(토) | POV: Working at a Sunny Blossom Café with Uplifting Spring B |
+| 12🥶 | 57 | 9 (15.8%) | 2 (3.5%) | 2시간 31분 | 2026-05-15(금) | [Alert] 2.5 Hours: Morning Productivity Boosters Only! 🧠Upli |
+| 13🥶 | 49 | 8 (16.3%) | 1 (2.0%) | 2시간 30분 | 2026-05-29(금) | Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️ |
+| 14🥶 | 43 | 8 (18.6%) | 1 (2.3%) | 2시간 33분 | 2026-05-26(화) | 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focu |
+| 15🥶 | 36 | 3 (8.3%) | 1 (2.8%) | 15초 | 2026-05-23(토) | POV: You Found the Perfect Sunny Café ☕🌸 |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 612회 · Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi Playlist for Relax & Study
+
+> 📅 2026-05-23 (토요일 01시) · ⏱ 2시간 30분 · 👍 1.63% · 💬 0.16%
+> 🏷 `uplifting soft pop` `chill lofi playlist` `relaxing cafe music` `coffee shop music` `study music` …
+> 🔗 [영상 보기](https://youtu.be/7kBJTlwMLhU) · 🖼 [썸네일](https://i.ytimg.com/vi/7kBJTlwMLhU/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍1): **Welcome to Sunny Café Escape ☀☕ I hope this uplifting soft pop & chill lo-fi playlist helps you relax, focus, and enjoy a peaceful moment 
+
+### 🥈 257회 · City Café ☕ Where the City Slows Down (2.5 Hours of Uplifting Lo-Fi & Jazz)
+
+> 📅 2026-05-07 (목요일 00시) · ⏱ 2시간 31분 · 👍 5.06% · 💬 2.33%
+> 🏷 `cafe music` `coffee shop music` `cafe jazz` `bossa nova playlist` `uplifting jazz` …
+> 🔗 [영상 보기](https://youtu.be/BJ2kItdiyjQ) · 🖼 [썸네일](https://i.ytimg.com/vi/BJ2kItdiyjQ/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): New Uplifting Mix is live!  ✨This volume features brighter melodies for an even better focus session.  Check it out here: https://www.youtub
+> _@EchoesOfEveryday-eo_ (👍2): “Hope this mix helps you unwind in a cozy city café mood ☀☕
+> _@nolindano_ (👍2): this is great! do you have this kind of playlist on Spotify maybe?
+
+### 🥉 255회 · [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs for Focus, Study & Relaxation
+
+> 📅 2026-05-02 (토요일 22시) · ⏱ 2시간 5분 · 👍 3.14% · 💬 1.57%
+> 🏷 `cafe music` `coffee shop music` `study music` `chill music` `lofi cafe` …
+> 🔗 [영상 보기](https://youtu.be/sJo_FpxkMs0) · 🖼 [썸네일](https://i.ytimg.com/vi/sJo_FpxkMs0/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): Your summer sanctuary is officially open. ☕🌿 With 100 tracks curated for a seamless flow, this is designed to be the only background you nee
+> _@eunicekang419_ (👍0): Comfy~
+> _@TheEunice0116_ (👍0): Like ❤
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🥶 하위 영상 — 개선 필요
+
+- **36회** · 중간값 대비 **-72%** ↓
+  - POV: You Found the Perfect Sunny Café ☕🌸
+  - 📅 2026-05-23(토, 18시) · ⏱ 15초 · 🔗 [영상](https://youtu.be/eT41BgYieg8)
+- **43회** · 중간값 대비 **-67%** ↓
+  - 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focus | Uplifting Smooth Pop & Jazz
+  - 📅 2026-05-26(화, 11시) · ⏱ 2시간 33분 · 🔗 [영상](https://youtu.be/XNimr1KvVvs)
+- **49회** · 중간값 대비 **-62%** ↓
+  - Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️
+  - 📅 2026-05-29(금, 07시) · ⏱ 2시간 30분 · 🔗 [영상](https://youtu.be/rcdzs65tn0U)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 📅 **최고 요일**: 목요일 (평균 257회) — 최저 대비 **4.0배**
+- 📅 **최저 요일**: 화요일 (평균 65회)
+- 🔑 **상위 영상 키워드**: `Caf` `Uplifting` `Chill` `Playlist` `Study` `City` `Hours` `Focus`
+- 📝 **제목 길이**: 평균 77자 (최단 40자 · 최장 94자)
+- ⏱ **영상 길이**: 평균 2시간 1분 · Shorts(60초 이하) 2/15개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔴 **부진 영상 살리기** — `POV: You Found the Perfect Sunny Café ☕🌸` (36회). 썸네일 A/B 또는 제목 리네이밍.**
+2. 🔥 **떡상 패턴 복제** — `Sunny Café Escape ☀️ Uplifting Soft Pop ` (612회). 같은 후크/포맷으로 후속편.
+3. 📅 **발행 요일 최적화** — 목요일 영상이 평균 가장 잘 됨. 다음 업로드 목요일 추천.
+4. 🔑 **제목 키워드 활용** — 상위 영상의 `Caf, Uplifting, Chill` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`you`(5) · `focus`(3) · `helps`(2) · `kind`(2) · `Feel`(2) · `Welcome`(1) · `Sunny`(1) · `Caf`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
+
+
+# 🎬 Echoes Of Everyday
+_2026-05-31 15:25 · 최근 30일 분석 · 영상 15개_
+
+> **19명** 구독자 · **2.4K** 누적 조회 · **15개** 영상 · **0.1년** 운영
+> 핸들 `@echoesofeveryday-eo` · 🌍 US · 영상당 평균 **157** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 15개 (월 15.0개) | 🟢 활발 |
+| 조회수 중간값 | **132** | 최고 612 · 최저 36 |
+| 좋아요율 | **8.65%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **2.20%** | 🟢 좋음 (업계 0.3~1%) |
+| 평균 길이 | 2시간 1분 | 제목 평균 77자 |
+| Shorts | 2개 / 15 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 612 | 10 (1.6%) | 1 (0.2%) | 2시간 30분 | 2026-05-23(토) | Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi  |
+| 2🔥 | 257 | 13 (5.1%) | 6 (2.3%) | 2시간 31분 | 2026-05-07(목) | City Café ☕ Where the City Slows Down (2.5 Hours of Upliftin |
+| 3🔥 | 255 | 8 (3.1%) | 4 (1.6%) | 2시간 5분 | 2026-05-02(토) | [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs fo |
+| 4🔥 | 225 | 11 (4.9%) | 8 (3.6%) | 2시간 32분 | 2026-05-11(월) | [Caution] This Video For Productivity Boosters! ☀️ 2.5 Hours |
+| 5👍 | 161 | 10 (6.2%) | 2 (1.2%) | 2시간 32분 | 2026-05-20(수) | Morning Focus ☕ 2.5 Hours of Uplifting Soft Pop & Lo-Fi Chil |
+| 6👍 | 150 | 10 (6.7%) | 2 (1.3%) | 2시간 30분 | 2026-05-08(금) | [Warning] The 2.5 Hours Focus Trick for Ultra-Productivity ☕ |
+| 7👍 | 142 | 12 (8.5%) | 1 (0.7%) | 2시간 31분 | 2026-05-13(수) | Warm Café Evenings ☕ Quiet Mind, Sharp Focus (2.5 Hours of U |
+| 8👍 | 132 | 8 (6.1%) | 4 (3.0%) | 2시간 3분 | 2026-05-02(토) | [Deep Focus] Ordinary Workday ☀️ 2 Hours Smooth Chill Beats  |
+| 9🥶 | 98 | 8 (8.2%) | 0 (0.0%) | 51초 | 2026-05-13(수) | POV: You finally found the perfect deep work vibes ☕️ |
+| 10🥶 | 87 | 7 (8.0%) | 2 (2.3%) | 2시간 30분 | 2026-05-05(화) | [Deep Focus] Sunlit Coastal Café ☀️ 2.5 Hours Bossa Nova & J |
+| 11🥶 | 65 | 8 (12.3%) | 4 (6.2%) | 1시간 0분 | 2026-05-02(토) | POV: Working at a Sunny Blossom Café with Uplifting Spring B |
+| 12🥶 | 57 | 9 (15.8%) | 2 (3.5%) | 2시간 31분 | 2026-05-15(금) | [Alert] 2.5 Hours: Morning Productivity Boosters Only! 🧠Upli |
+| 13🥶 | 49 | 8 (16.3%) | 1 (2.0%) | 2시간 30분 | 2026-05-29(금) | Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️ |
+| 14🥶 | 43 | 8 (18.6%) | 1 (2.3%) | 2시간 33분 | 2026-05-26(화) | 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focu |
+| 15🥶 | 36 | 3 (8.3%) | 1 (2.8%) | 15초 | 2026-05-23(토) | POV: You Found the Perfect Sunny Café ☕🌸 |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 612회 · Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi Playlist for Relax & Study
+
+> 📅 2026-05-23 (토요일 01시) · ⏱ 2시간 30분 · 👍 1.63% · 💬 0.16%
+> 🏷 `uplifting soft pop` `chill lofi playlist` `relaxing cafe music` `coffee shop music` `study music` …
+> 🔗 [영상 보기](https://youtu.be/7kBJTlwMLhU) · 🖼 [썸네일](https://i.ytimg.com/vi/7kBJTlwMLhU/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍1): **Welcome to Sunny Café Escape ☀☕ I hope this uplifting soft pop & chill lo-fi playlist helps you relax, focus, and enjoy a peaceful moment 
+
+### 🥈 257회 · City Café ☕ Where the City Slows Down (2.5 Hours of Uplifting Lo-Fi & Jazz)
+
+> 📅 2026-05-07 (목요일 00시) · ⏱ 2시간 31분 · 👍 5.06% · 💬 2.33%
+> 🏷 `cafe music` `coffee shop music` `cafe jazz` `bossa nova playlist` `uplifting jazz` …
+> 🔗 [영상 보기](https://youtu.be/BJ2kItdiyjQ) · 🖼 [썸네일](https://i.ytimg.com/vi/BJ2kItdiyjQ/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): New Uplifting Mix is live!  ✨This volume features brighter melodies for an even better focus session.  Check it out here: https://www.youtub
+> _@EchoesOfEveryday-eo_ (👍2): “Hope this mix helps you unwind in a cozy city café mood ☀☕
+> _@nolindano_ (👍2): this is great! do you have this kind of playlist on Spotify maybe?
+
+### 🥉 255회 · [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs for Focus, Study & Relaxation
+
+> 📅 2026-05-02 (토요일 22시) · ⏱ 2시간 5분 · 👍 3.14% · 💬 1.57%
+> 🏷 `cafe music` `coffee shop music` `study music` `chill music` `lofi cafe` …
+> 🔗 [영상 보기](https://youtu.be/sJo_FpxkMs0) · 🖼 [썸네일](https://i.ytimg.com/vi/sJo_FpxkMs0/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): Your summer sanctuary is officially open. ☕🌿 With 100 tracks curated for a seamless flow, this is designed to be the only background you nee
+> _@eunicekang419_ (👍0): Comfy~
+> _@TheEunice0116_ (👍0): Like ❤
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🥶 하위 영상 — 개선 필요
+
+- **36회** · 중간값 대비 **-72%** ↓
+  - POV: You Found the Perfect Sunny Café ☕🌸
+  - 📅 2026-05-23(토, 18시) · ⏱ 15초 · 🔗 [영상](https://youtu.be/eT41BgYieg8)
+- **43회** · 중간값 대비 **-67%** ↓
+  - 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focus | Uplifting Smooth Pop & Jazz
+  - 📅 2026-05-26(화, 11시) · ⏱ 2시간 33분 · 🔗 [영상](https://youtu.be/XNimr1KvVvs)
+- **49회** · 중간값 대비 **-62%** ↓
+  - Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️
+  - 📅 2026-05-29(금, 07시) · ⏱ 2시간 30분 · 🔗 [영상](https://youtu.be/rcdzs65tn0U)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 📅 **최고 요일**: 목요일 (평균 257회) — 최저 대비 **4.0배**
+- 📅 **최저 요일**: 화요일 (평균 65회)
+- 🔑 **상위 영상 키워드**: `Caf` `Uplifting` `Chill` `Playlist` `Study` `City` `Hours` `Focus`
+- 📝 **제목 길이**: 평균 77자 (최단 40자 · 최장 94자)
+- ⏱ **영상 길이**: 평균 2시간 1분 · Shorts(60초 이하) 2/15개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔴 **부진 영상 살리기** — `POV: You Found the Perfect Sunny Café ☕🌸` (36회). 썸네일 A/B 또는 제목 리네이밍.**
+2. 🔥 **떡상 패턴 복제** — `Sunny Café Escape ☀️ Uplifting Soft Pop ` (612회). 같은 후크/포맷으로 후속편.
+3. 📅 **발행 요일 최적화** — 목요일 영상이 평균 가장 잘 됨. 다음 업로드 목요일 추천.
+4. 🔑 **제목 키워드 활용** — 상위 영상의 `Caf, Uplifting, Chill` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`you`(5) · `focus`(3) · `helps`(2) · `kind`(2) · `Feel`(2) · `Welcome`(1) · `Sunny`(1) · `Caf`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
+
+
+# 🎬 Echoes Of Everyday
+_2026-05-31 15:43 · 최근 30일 분석 · 영상 15개_
+
+> **19명** 구독자 · **2.4K** 누적 조회 · **15개** 영상 · **0.1년** 운영
+> 핸들 `@echoesofeveryday-eo` · 🌍 US · 영상당 평균 **157** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 15개 (월 15.0개) | 🟢 활발 |
+| 조회수 중간값 | **132** | 최고 612 · 최저 36 |
+| 좋아요율 | **8.65%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **2.20%** | 🟢 좋음 (업계 0.3~1%) |
+| 평균 길이 | 2시간 1분 | 제목 평균 77자 |
+| Shorts | 2개 / 15 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 612 | 10 (1.6%) | 1 (0.2%) | 2시간 30분 | 2026-05-23(토) | Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi  |
+| 2🔥 | 257 | 13 (5.1%) | 6 (2.3%) | 2시간 31분 | 2026-05-07(목) | City Café ☕ Where the City Slows Down (2.5 Hours of Upliftin |
+| 3🔥 | 255 | 8 (3.1%) | 4 (1.6%) | 2시간 5분 | 2026-05-02(토) | [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs fo |
+| 4🔥 | 225 | 11 (4.9%) | 8 (3.6%) | 2시간 32분 | 2026-05-11(월) | [Caution] This Video For Productivity Boosters! ☀️ 2.5 Hours |
+| 5👍 | 161 | 10 (6.2%) | 2 (1.2%) | 2시간 32분 | 2026-05-20(수) | Morning Focus ☕ 2.5 Hours of Uplifting Soft Pop & Lo-Fi Chil |
+| 6👍 | 150 | 10 (6.7%) | 2 (1.3%) | 2시간 30분 | 2026-05-08(금) | [Warning] The 2.5 Hours Focus Trick for Ultra-Productivity ☕ |
+| 7👍 | 142 | 12 (8.5%) | 1 (0.7%) | 2시간 31분 | 2026-05-13(수) | Warm Café Evenings ☕ Quiet Mind, Sharp Focus (2.5 Hours of U |
+| 8👍 | 132 | 8 (6.1%) | 4 (3.0%) | 2시간 3분 | 2026-05-02(토) | [Deep Focus] Ordinary Workday ☀️ 2 Hours Smooth Chill Beats  |
+| 9🥶 | 98 | 8 (8.2%) | 0 (0.0%) | 51초 | 2026-05-13(수) | POV: You finally found the perfect deep work vibes ☕️ |
+| 10🥶 | 87 | 7 (8.0%) | 2 (2.3%) | 2시간 30분 | 2026-05-05(화) | [Deep Focus] Sunlit Coastal Café ☀️ 2.5 Hours Bossa Nova & J |
+| 11🥶 | 65 | 8 (12.3%) | 4 (6.2%) | 1시간 0분 | 2026-05-02(토) | POV: Working at a Sunny Blossom Café with Uplifting Spring B |
+| 12🥶 | 57 | 9 (15.8%) | 2 (3.5%) | 2시간 31분 | 2026-05-15(금) | [Alert] 2.5 Hours: Morning Productivity Boosters Only! 🧠Upli |
+| 13🥶 | 49 | 8 (16.3%) | 1 (2.0%) | 2시간 30분 | 2026-05-29(금) | Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️ |
+| 14🥶 | 43 | 8 (18.6%) | 1 (2.3%) | 2시간 33분 | 2026-05-26(화) | 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focu |
+| 15🥶 | 36 | 3 (8.3%) | 1 (2.8%) | 15초 | 2026-05-23(토) | POV: You Found the Perfect Sunny Café ☕🌸 |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 612회 · Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi Playlist for Relax & Study
+
+> 📅 2026-05-23 (토요일 01시) · ⏱ 2시간 30분 · 👍 1.63% · 💬 0.16%
+> 🏷 `uplifting soft pop` `chill lofi playlist` `relaxing cafe music` `coffee shop music` `study music` …
+> 🔗 [영상 보기](https://youtu.be/7kBJTlwMLhU) · 🖼 [썸네일](https://i.ytimg.com/vi/7kBJTlwMLhU/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍1): **Welcome to Sunny Café Escape ☀☕ I hope this uplifting soft pop & chill lo-fi playlist helps you relax, focus, and enjoy a peaceful moment 
+
+### 🥈 257회 · City Café ☕ Where the City Slows Down (2.5 Hours of Uplifting Lo-Fi & Jazz)
+
+> 📅 2026-05-07 (목요일 00시) · ⏱ 2시간 31분 · 👍 5.06% · 💬 2.33%
+> 🏷 `cafe music` `coffee shop music` `cafe jazz` `bossa nova playlist` `uplifting jazz` …
+> 🔗 [영상 보기](https://youtu.be/BJ2kItdiyjQ) · 🖼 [썸네일](https://i.ytimg.com/vi/BJ2kItdiyjQ/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): New Uplifting Mix is live!  ✨This volume features brighter melodies for an even better focus session.  Check it out here: https://www.youtub
+> _@EchoesOfEveryday-eo_ (👍2): “Hope this mix helps you unwind in a cozy city café mood ☀☕
+> _@nolindano_ (👍2): this is great! do you have this kind of playlist on Spotify maybe?
+
+### 🥉 255회 · [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs for Focus, Study & Relaxation
+
+> 📅 2026-05-02 (토요일 22시) · ⏱ 2시간 5분 · 👍 3.14% · 💬 1.57%
+> 🏷 `cafe music` `coffee shop music` `study music` `chill music` `lofi cafe` …
+> 🔗 [영상 보기](https://youtu.be/sJo_FpxkMs0) · 🖼 [썸네일](https://i.ytimg.com/vi/sJo_FpxkMs0/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): Your summer sanctuary is officially open. ☕🌿 With 100 tracks curated for a seamless flow, this is designed to be the only background you nee
+> _@eunicekang419_ (👍0): Comfy~
+> _@TheEunice0116_ (👍0): Like ❤
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🥶 하위 영상 — 개선 필요
+
+- **36회** · 중간값 대비 **-72%** ↓
+  - POV: You Found the Perfect Sunny Café ☕🌸
+  - 📅 2026-05-23(토, 18시) · ⏱ 15초 · 🔗 [영상](https://youtu.be/eT41BgYieg8)
+- **43회** · 중간값 대비 **-67%** ↓
+  - 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focus | Uplifting Smooth Pop & Jazz
+  - 📅 2026-05-26(화, 11시) · ⏱ 2시간 33분 · 🔗 [영상](https://youtu.be/XNimr1KvVvs)
+- **49회** · 중간값 대비 **-62%** ↓
+  - Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️
+  - 📅 2026-05-29(금, 07시) · ⏱ 2시간 30분 · 🔗 [영상](https://youtu.be/rcdzs65tn0U)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 📅 **최고 요일**: 목요일 (평균 257회) — 최저 대비 **4.0배**
+- 📅 **최저 요일**: 화요일 (평균 65회)
+- 🔑 **상위 영상 키워드**: `Caf` `Uplifting` `Chill` `Playlist` `Study` `City` `Hours` `Focus`
+- 📝 **제목 길이**: 평균 77자 (최단 40자 · 최장 94자)
+- ⏱ **영상 길이**: 평균 2시간 1분 · Shorts(60초 이하) 2/15개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔴 **부진 영상 살리기** — `POV: You Found the Perfect Sunny Café ☕🌸` (36회). 썸네일 A/B 또는 제목 리네이밍.**
+2. 🔥 **떡상 패턴 복제** — `Sunny Café Escape ☀️ Uplifting Soft Pop ` (612회). 같은 후크/포맷으로 후속편.
+3. 📅 **발행 요일 최적화** — 목요일 영상이 평균 가장 잘 됨. 다음 업로드 목요일 추천.
+4. 🔑 **제목 키워드 활용** — 상위 영상의 `Caf, Uplifting, Chill` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`you`(5) · `focus`(3) · `helps`(2) · `kind`(2) · `Feel`(2) · `Welcome`(1) · `Sunny`(1) · `Caf`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
+
+
+# 🎬 Echoes Of Everyday
+_2026-05-31 15:55 · 최근 30일 분석 · 영상 15개_
+
+> **19명** 구독자 · **2.4K** 누적 조회 · **15개** 영상 · **0.1년** 운영
+> 핸들 `@echoesofeveryday-eo` · 🌍 US · 영상당 평균 **157** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 15개 (월 15.0개) | 🟢 활발 |
+| 조회수 중간값 | **132** | 최고 612 · 최저 36 |
+| 좋아요율 | **8.65%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **2.20%** | 🟢 좋음 (업계 0.3~1%) |
+| 평균 길이 | 2시간 1분 | 제목 평균 77자 |
+| Shorts | 2개 / 15 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 612 | 10 (1.6%) | 1 (0.2%) | 2시간 30분 | 2026-05-23(토) | Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi  |
+| 2🔥 | 257 | 13 (5.1%) | 6 (2.3%) | 2시간 31분 | 2026-05-07(목) | City Café ☕ Where the City Slows Down (2.5 Hours of Upliftin |
+| 3🔥 | 255 | 8 (3.1%) | 4 (1.6%) | 2시간 5분 | 2026-05-02(토) | [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs fo |
+| 4🔥 | 225 | 11 (4.9%) | 8 (3.6%) | 2시간 32분 | 2026-05-11(월) | [Caution] This Video For Productivity Boosters! ☀️ 2.5 Hours |
+| 5👍 | 161 | 10 (6.2%) | 2 (1.2%) | 2시간 32분 | 2026-05-20(수) | Morning Focus ☕ 2.5 Hours of Uplifting Soft Pop & Lo-Fi Chil |
+| 6👍 | 150 | 10 (6.7%) | 2 (1.3%) | 2시간 30분 | 2026-05-08(금) | [Warning] The 2.5 Hours Focus Trick for Ultra-Productivity ☕ |
+| 7👍 | 142 | 12 (8.5%) | 1 (0.7%) | 2시간 31분 | 2026-05-13(수) | Warm Café Evenings ☕ Quiet Mind, Sharp Focus (2.5 Hours of U |
+| 8👍 | 132 | 8 (6.1%) | 4 (3.0%) | 2시간 3분 | 2026-05-02(토) | [Deep Focus] Ordinary Workday ☀️ 2 Hours Smooth Chill Beats  |
+| 9🥶 | 98 | 8 (8.2%) | 0 (0.0%) | 51초 | 2026-05-13(수) | POV: You finally found the perfect deep work vibes ☕️ |
+| 10🥶 | 87 | 7 (8.0%) | 2 (2.3%) | 2시간 30분 | 2026-05-05(화) | [Deep Focus] Sunlit Coastal Café ☀️ 2.5 Hours Bossa Nova & J |
+| 11🥶 | 65 | 8 (12.3%) | 4 (6.2%) | 1시간 0분 | 2026-05-02(토) | POV: Working at a Sunny Blossom Café with Uplifting Spring B |
+| 12🥶 | 57 | 9 (15.8%) | 2 (3.5%) | 2시간 31분 | 2026-05-15(금) | [Alert] 2.5 Hours: Morning Productivity Boosters Only! 🧠Upli |
+| 13🥶 | 49 | 8 (16.3%) | 1 (2.0%) | 2시간 30분 | 2026-05-29(금) | Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️ |
+| 14🥶 | 43 | 8 (18.6%) | 1 (2.3%) | 2시간 33분 | 2026-05-26(화) | 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focu |
+| 15🥶 | 36 | 3 (8.3%) | 1 (2.8%) | 15초 | 2026-05-23(토) | POV: You Found the Perfect Sunny Café ☕🌸 |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 612회 · Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi Playlist for Relax & Study
+
+> 📅 2026-05-23 (토요일 01시) · ⏱ 2시간 30분 · 👍 1.63% · 💬 0.16%
+> 🏷 `uplifting soft pop` `chill lofi playlist` `relaxing cafe music` `coffee shop music` `study music` …
+> 🔗 [영상 보기](https://youtu.be/7kBJTlwMLhU) · 🖼 [썸네일](https://i.ytimg.com/vi/7kBJTlwMLhU/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍1): **Welcome to Sunny Café Escape ☀☕ I hope this uplifting soft pop & chill lo-fi playlist helps you relax, focus, and enjoy a peaceful moment 
+
+### 🥈 257회 · City Café ☕ Where the City Slows Down (2.5 Hours of Uplifting Lo-Fi & Jazz)
+
+> 📅 2026-05-07 (목요일 00시) · ⏱ 2시간 31분 · 👍 5.06% · 💬 2.33%
+> 🏷 `cafe music` `coffee shop music` `cafe jazz` `bossa nova playlist` `uplifting jazz` …
+> 🔗 [영상 보기](https://youtu.be/BJ2kItdiyjQ) · 🖼 [썸네일](https://i.ytimg.com/vi/BJ2kItdiyjQ/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): New Uplifting Mix is live!  ✨This volume features brighter melodies for an even better focus session.  Check it out here: https://www.youtub
+> _@EchoesOfEveryday-eo_ (👍2): “Hope this mix helps you unwind in a cozy city café mood ☀☕
+> _@nolindano_ (👍2): this is great! do you have this kind of playlist on Spotify maybe?
+
+### 🥉 255회 · [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs for Focus, Study & Relaxation
+
+> 📅 2026-05-02 (토요일 22시) · ⏱ 2시간 5분 · 👍 3.14% · 💬 1.57%
+> 🏷 `cafe music` `coffee shop music` `study music` `chill music` `lofi cafe` …
+> 🔗 [영상 보기](https://youtu.be/sJo_FpxkMs0) · 🖼 [썸네일](https://i.ytimg.com/vi/sJo_FpxkMs0/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): Your summer sanctuary is officially open. ☕🌿 With 100 tracks curated for a seamless flow, this is designed to be the only background you nee
+> _@eunicekang419_ (👍0): Comfy~
+> _@TheEunice0116_ (👍0): Like ❤
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🥶 하위 영상 — 개선 필요
+
+- **36회** · 중간값 대비 **-72%** ↓
+  - POV: You Found the Perfect Sunny Café ☕🌸
+  - 📅 2026-05-23(토, 18시) · ⏱ 15초 · 🔗 [영상](https://youtu.be/eT41BgYieg8)
+- **43회** · 중간값 대비 **-67%** ↓
+  - 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focus | Uplifting Smooth Pop & Jazz
+  - 📅 2026-05-26(화, 11시) · ⏱ 2시간 33분 · 🔗 [영상](https://youtu.be/XNimr1KvVvs)
+- **49회** · 중간값 대비 **-62%** ↓
+  - Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️
+  - 📅 2026-05-29(금, 07시) · ⏱ 2시간 30분 · 🔗 [영상](https://youtu.be/rcdzs65tn0U)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 📅 **최고 요일**: 목요일 (평균 257회) — 최저 대비 **4.0배**
+- 📅 **최저 요일**: 화요일 (평균 65회)
+- 🔑 **상위 영상 키워드**: `Caf` `Uplifting` `Chill` `Playlist` `Study` `City` `Hours` `Focus`
+- 📝 **제목 길이**: 평균 77자 (최단 40자 · 최장 94자)
+- ⏱ **영상 길이**: 평균 2시간 1분 · Shorts(60초 이하) 2/15개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔴 **부진 영상 살리기** — `POV: You Found the Perfect Sunny Café ☕🌸` (36회). 썸네일 A/B 또는 제목 리네이밍.**
+2. 🔥 **떡상 패턴 복제** — `Sunny Café Escape ☀️ Uplifting Soft Pop ` (612회). 같은 후크/포맷으로 후속편.
+3. 📅 **발행 요일 최적화** — 목요일 영상이 평균 가장 잘 됨. 다음 업로드 목요일 추천.
+4. 🔑 **제목 키워드 활용** — 상위 영상의 `Caf, Uplifting, Chill` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`you`(5) · `focus`(3) · `helps`(2) · `kind`(2) · `Feel`(2) · `Welcome`(1) · `Sunny`(1) · `Caf`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
+
+
+# 🎬 Echoes Of Everyday
+_2026-05-31 16:25 · 최근 30일 분석 · 영상 15개_
+
+> **19명** 구독자 · **2.4K** 누적 조회 · **15개** 영상 · **0.1년** 운영
+> 핸들 `@echoesofeveryday-eo` · 🌍 US · 영상당 평균 **157** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 15개 (월 15.0개) | 🟢 활발 |
+| 조회수 중간값 | **132** | 최고 612 · 최저 36 |
+| 좋아요율 | **8.65%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **2.20%** | 🟢 좋음 (업계 0.3~1%) |
+| 평균 길이 | 2시간 1분 | 제목 평균 77자 |
+| Shorts | 2개 / 15 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 612 | 10 (1.6%) | 1 (0.2%) | 2시간 30분 | 2026-05-23(토) | Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi  |
+| 2🔥 | 257 | 13 (5.1%) | 6 (2.3%) | 2시간 31분 | 2026-05-07(목) | City Café ☕ Where the City Slows Down (2.5 Hours of Upliftin |
+| 3🔥 | 255 | 8 (3.1%) | 4 (1.6%) | 2시간 5분 | 2026-05-02(토) | [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs fo |
+| 4🔥 | 225 | 11 (4.9%) | 8 (3.6%) | 2시간 32분 | 2026-05-11(월) | [Caution] This Video For Productivity Boosters! ☀️ 2.5 Hours |
+| 5👍 | 161 | 10 (6.2%) | 2 (1.2%) | 2시간 32분 | 2026-05-20(수) | Morning Focus ☕ 2.5 Hours of Uplifting Soft Pop & Lo-Fi Chil |
+| 6👍 | 150 | 10 (6.7%) | 2 (1.3%) | 2시간 30분 | 2026-05-08(금) | [Warning] The 2.5 Hours Focus Trick for Ultra-Productivity ☕ |
+| 7👍 | 142 | 12 (8.5%) | 1 (0.7%) | 2시간 31분 | 2026-05-13(수) | Warm Café Evenings ☕ Quiet Mind, Sharp Focus (2.5 Hours of U |
+| 8👍 | 132 | 8 (6.1%) | 4 (3.0%) | 2시간 3분 | 2026-05-02(토) | [Deep Focus] Ordinary Workday ☀️ 2 Hours Smooth Chill Beats  |
+| 9🥶 | 98 | 8 (8.2%) | 0 (0.0%) | 51초 | 2026-05-13(수) | POV: You finally found the perfect deep work vibes ☕️ |
+| 10🥶 | 87 | 7 (8.0%) | 2 (2.3%) | 2시간 30분 | 2026-05-05(화) | [Deep Focus] Sunlit Coastal Café ☀️ 2.5 Hours Bossa Nova & J |
+| 11🥶 | 65 | 8 (12.3%) | 4 (6.2%) | 1시간 0분 | 2026-05-02(토) | POV: Working at a Sunny Blossom Café with Uplifting Spring B |
+| 12🥶 | 57 | 9 (15.8%) | 2 (3.5%) | 2시간 31분 | 2026-05-15(금) | [Alert] 2.5 Hours: Morning Productivity Boosters Only! 🧠Upli |
+| 13🥶 | 49 | 8 (16.3%) | 1 (2.0%) | 2시간 30분 | 2026-05-29(금) | Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️ |
+| 14🥶 | 43 | 8 (18.6%) | 1 (2.3%) | 2시간 33분 | 2026-05-26(화) | 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focu |
+| 15🥶 | 36 | 3 (8.3%) | 1 (2.8%) | 15초 | 2026-05-23(토) | POV: You Found the Perfect Sunny Café ☕🌸 |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 612회 · Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi Playlist for Relax & Study
+
+> 📅 2026-05-23 (토요일 01시) · ⏱ 2시간 30분 · 👍 1.63% · 💬 0.16%
+> 🏷 `uplifting soft pop` `chill lofi playlist` `relaxing cafe music` `coffee shop music` `study music` …
+> 🔗 [영상 보기](https://youtu.be/7kBJTlwMLhU) · 🖼 [썸네일](https://i.ytimg.com/vi/7kBJTlwMLhU/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍1): **Welcome to Sunny Café Escape ☀☕ I hope this uplifting soft pop & chill lo-fi playlist helps you relax, focus, and enjoy a peaceful moment 
+
+### 🥈 257회 · City Café ☕ Where the City Slows Down (2.5 Hours of Uplifting Lo-Fi & Jazz)
+
+> 📅 2026-05-07 (목요일 00시) · ⏱ 2시간 31분 · 👍 5.06% · 💬 2.33%
+> 🏷 `cafe music` `coffee shop music` `cafe jazz` `bossa nova playlist` `uplifting jazz` …
+> 🔗 [영상 보기](https://youtu.be/BJ2kItdiyjQ) · 🖼 [썸네일](https://i.ytimg.com/vi/BJ2kItdiyjQ/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): New Uplifting Mix is live!  ✨This volume features brighter melodies for an even better focus session.  Check it out here: https://www.youtub
+> _@EchoesOfEveryday-eo_ (👍2): “Hope this mix helps you unwind in a cozy city café mood ☀☕
+> _@nolindano_ (👍2): this is great! do you have this kind of playlist on Spotify maybe?
+
+### 🥉 255회 · [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs for Focus, Study & Relaxation
+
+> 📅 2026-05-02 (토요일 22시) · ⏱ 2시간 5분 · 👍 3.14% · 💬 1.57%
+> 🏷 `cafe music` `coffee shop music` `study music` `chill music` `lofi cafe` …
+> 🔗 [영상 보기](https://youtu.be/sJo_FpxkMs0) · 🖼 [썸네일](https://i.ytimg.com/vi/sJo_FpxkMs0/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): Your summer sanctuary is officially open. ☕🌿 With 100 tracks curated for a seamless flow, this is designed to be the only background you nee
+> _@eunicekang419_ (👍0): Comfy~
+> _@TheEunice0116_ (👍0): Like ❤
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🥶 하위 영상 — 개선 필요
+
+- **36회** · 중간값 대비 **-72%** ↓
+  - POV: You Found the Perfect Sunny Café ☕🌸
+  - 📅 2026-05-23(토, 18시) · ⏱ 15초 · 🔗 [영상](https://youtu.be/eT41BgYieg8)
+- **43회** · 중간값 대비 **-67%** ↓
+  - 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focus | Uplifting Smooth Pop & Jazz
+  - 📅 2026-05-26(화, 11시) · ⏱ 2시간 33분 · 🔗 [영상](https://youtu.be/XNimr1KvVvs)
+- **49회** · 중간값 대비 **-62%** ↓
+  - Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️
+  - 📅 2026-05-29(금, 07시) · ⏱ 2시간 30분 · 🔗 [영상](https://youtu.be/rcdzs65tn0U)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 📅 **최고 요일**: 목요일 (평균 257회) — 최저 대비 **4.0배**
+- 📅 **최저 요일**: 화요일 (평균 65회)
+- 🔑 **상위 영상 키워드**: `Caf` `Uplifting` `Chill` `Playlist` `Study` `City` `Hours` `Focus`
+- 📝 **제목 길이**: 평균 77자 (최단 40자 · 최장 94자)
+- ⏱ **영상 길이**: 평균 2시간 1분 · Shorts(60초 이하) 2/15개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔴 **부진 영상 살리기** — `POV: You Found the Perfect Sunny Café ☕🌸` (36회). 썸네일 A/B 또는 제목 리네이밍.**
+2. 🔥 **떡상 패턴 복제** — `Sunny Café Escape ☀️ Uplifting Soft Pop ` (612회). 같은 후크/포맷으로 후속편.
+3. 📅 **발행 요일 최적화** — 목요일 영상이 평균 가장 잘 됨. 다음 업로드 목요일 추천.
+4. 🔑 **제목 키워드 활용** — 상위 영상의 `Caf, Uplifting, Chill` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`you`(5) · `focus`(3) · `helps`(2) · `kind`(2) · `Feel`(2) · `Welcome`(1) · `Sunny`(1) · `Caf`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
+
+
+# 🎬 Echoes Of Everyday
+_2026-05-31 17:47 · 최근 30일 분석 · 영상 15개_
+
+> **19명** 구독자 · **2.4K** 누적 조회 · **15개** 영상 · **0.1년** 운영
+> 핸들 `@echoesofeveryday-eo` · 🌍 US · 영상당 평균 **157** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 15개 (월 15.0개) | 🟢 활발 |
+| 조회수 중간값 | **133** | 최고 612 · 최저 36 |
+| 좋아요율 | **8.62%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **2.20%** | 🟢 좋음 (업계 0.3~1%) |
+| 평균 길이 | 2시간 1분 | 제목 평균 77자 |
+| Shorts | 2개 / 15 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 612 | 10 (1.6%) | 1 (0.2%) | 2시간 30분 | 2026-05-23(토) | Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi  |
+| 2🔥 | 257 | 13 (5.1%) | 6 (2.3%) | 2시간 31분 | 2026-05-07(목) | City Café ☕ Where the City Slows Down (2.5 Hours of Upliftin |
+| 3🔥 | 255 | 8 (3.1%) | 4 (1.6%) | 2시간 5분 | 2026-05-02(토) | [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs fo |
+| 4🔥 | 225 | 11 (4.9%) | 8 (3.6%) | 2시간 32분 | 2026-05-11(월) | [Caution] This Video For Productivity Boosters! ☀️ 2.5 Hours |
+| 5👍 | 164 | 10 (6.1%) | 2 (1.2%) | 2시간 32분 | 2026-05-20(수) | Morning Focus ☕ 2.5 Hours of Uplifting Soft Pop & Lo-Fi Chil |
+| 6👍 | 150 | 10 (6.7%) | 2 (1.3%) | 2시간 30분 | 2026-05-08(금) | [Warning] The 2.5 Hours Focus Trick for Ultra-Productivity ☕ |
+| 7👍 | 142 | 12 (8.5%) | 1 (0.7%) | 2시간 31분 | 2026-05-13(수) | Warm Café Evenings ☕ Quiet Mind, Sharp Focus (2.5 Hours of U |
+| 8👍 | 133 | 8 (6.0%) | 4 (3.0%) | 2시간 3분 | 2026-05-02(토) | [Deep Focus] Ordinary Workday ☀️ 2 Hours Smooth Chill Beats  |
+| 9🥶 | 98 | 8 (8.2%) | 0 (0.0%) | 51초 | 2026-05-13(수) | POV: You finally found the perfect deep work vibes ☕️ |
+| 10🥶 | 87 | 7 (8.0%) | 2 (2.3%) | 2시간 30분 | 2026-05-05(화) | [Deep Focus] Sunlit Coastal Café ☀️ 2.5 Hours Bossa Nova & J |
+| 11🥶 | 65 | 8 (12.3%) | 4 (6.2%) | 1시간 0분 | 2026-05-02(토) | POV: Working at a Sunny Blossom Café with Uplifting Spring B |
+| 12🥶 | 58 | 9 (15.5%) | 2 (3.4%) | 2시간 31분 | 2026-05-15(금) | [Alert] 2.5 Hours: Morning Productivity Boosters Only! 🧠Upli |
+| 13🥶 | 49 | 8 (16.3%) | 1 (2.0%) | 2시간 30분 | 2026-05-29(금) | Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️ |
+| 14🥶 | 43 | 8 (18.6%) | 1 (2.3%) | 2시간 33분 | 2026-05-26(화) | 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focu |
+| 15🥶 | 36 | 3 (8.3%) | 1 (2.8%) | 15초 | 2026-05-23(토) | POV: You Found the Perfect Sunny Café ☕🌸 |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 612회 · Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi Playlist for Relax & Study
+
+> 📅 2026-05-23 (토요일 01시) · ⏱ 2시간 30분 · 👍 1.63% · 💬 0.16%
+> 🏷 `uplifting soft pop` `chill lofi playlist` `relaxing cafe music` `coffee shop music` `study music` …
+> 🔗 [영상 보기](https://youtu.be/7kBJTlwMLhU) · 🖼 [썸네일](https://i.ytimg.com/vi/7kBJTlwMLhU/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍1): **Welcome to Sunny Café Escape ☀☕ I hope this uplifting soft pop & chill lo-fi playlist helps you relax, focus, and enjoy a peaceful moment 
+
+### 🥈 257회 · City Café ☕ Where the City Slows Down (2.5 Hours of Uplifting Lo-Fi & Jazz)
+
+> 📅 2026-05-07 (목요일 00시) · ⏱ 2시간 31분 · 👍 5.06% · 💬 2.33%
+> 🏷 `cafe music` `coffee shop music` `cafe jazz` `bossa nova playlist` `uplifting jazz` …
+> 🔗 [영상 보기](https://youtu.be/BJ2kItdiyjQ) · 🖼 [썸네일](https://i.ytimg.com/vi/BJ2kItdiyjQ/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): New Uplifting Mix is live!  ✨This volume features brighter melodies for an even better focus session.  Check it out here: https://www.youtub
+> _@EchoesOfEveryday-eo_ (👍2): “Hope this mix helps you unwind in a cozy city café mood ☀☕
+> _@nolindano_ (👍2): this is great! do you have this kind of playlist on Spotify maybe?
+
+### 🥉 255회 · [Deep Focus] Cozy Café Playlist ☕ 2 Hours 100 Chill Songs for Focus, Study & Relaxation
+
+> 📅 2026-05-02 (토요일 22시) · ⏱ 2시간 5분 · 👍 3.14% · 💬 1.57%
+> 🏷 `cafe music` `coffee shop music` `study music` `chill music` `lofi cafe` …
+> 🔗 [영상 보기](https://youtu.be/sJo_FpxkMs0) · 🖼 [썸네일](https://i.ytimg.com/vi/sJo_FpxkMs0/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@EchoesOfEveryday-eo_ (👍0): Your summer sanctuary is officially open. ☕🌿 With 100 tracks curated for a seamless flow, this is designed to be the only background you nee
+> _@eunicekang419_ (👍0): Comfy~
+> _@TheEunice0116_ (👍0): Like ❤
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🥶 하위 영상 — 개선 필요
+
+- **36회** · 중간값 대비 **-72%** ↓
+  - POV: You Found the Perfect Sunny Café ☕🌸
+  - 📅 2026-05-23(토, 18시) · ⏱ 15초 · 🔗 [영상](https://youtu.be/eT41BgYieg8)
+- **43회** · 중간값 대비 **-67%** ↓
+  - 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focus | Uplifting Smooth Pop & Jazz
+  - 📅 2026-05-26(화, 11시) · ⏱ 2시간 33분 · 🔗 [영상](https://youtu.be/XNimr1KvVvs)
+- **49회** · 중간값 대비 **-63%** ↓
+  - Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️
+  - 📅 2026-05-29(금, 07시) · ⏱ 2시간 30분 · 🔗 [영상](https://youtu.be/rcdzs65tn0U)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 📅 **최고 요일**: 목요일 (평균 257회) — 최저 대비 **4.0배**
+- 📅 **최저 요일**: 화요일 (평균 65회)
+- 🔑 **상위 영상 키워드**: `Caf` `Uplifting` `Chill` `Playlist` `Study` `City` `Hours` `Focus`
+- 📝 **제목 길이**: 평균 77자 (최단 40자 · 최장 94자)
+- ⏱ **영상 길이**: 평균 2시간 1분 · Shorts(60초 이하) 2/15개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔴 **부진 영상 살리기** — `POV: You Found the Perfect Sunny Café ☕🌸` (36회). 썸네일 A/B 또는 제목 리네이밍.**
+2. 🔥 **떡상 패턴 복제** — `Sunny Café Escape ☀️ Uplifting Soft Pop ` (612회). 같은 후크/포맷으로 후속편.
+3. 📅 **발행 요일 최적화** — 목요일 영상이 평균 가장 잘 됨. 다음 업로드 목요일 추천.
+4. 🔑 **제목 키워드 활용** — 상위 영상의 `Caf, Uplifting, Chill` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`you`(5) · `focus`(3) · `helps`(2) · `kind`(2) · `Feel`(2) · `Welcome`(1) · `Sunny`(1) · `Caf`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---

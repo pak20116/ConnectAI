@@ -26,3 +26,9 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-31] 콘텐츠 자동화 시스템(`run_final_deployment_test.py` 등)의 최종 안정성 확보 여부를 점검하고, 수익화 전략 실행에 필요한 데이터 추출 API 또는 로직 통합 가능성을 검증하라. → 산출물 sessions/2026-05-31T20-07/developer.md
 - [2026-05-31] run_final_deployment_test.py의 파일 경로 오류를 즉시 디버깅하여 시스템 안정성을 최종적으로 확보하고, 데이터 통합 가능성 검증을 완료하라. → 산출물 sessions/2026-05-31T20-22/developer.md
 - [2026-05-31] run_final_deployment_test.py 스크립트 내 파일 경로 오류 디버깅과 시스템 안정성 검증 로직(VSM)의 최종 실행 결과를 즉시 확인하고, 전체 파이프라인의 안정성 확보 여부를 보고하라. → 산출물 sessions/2026-05-31T21-07/developer.md
+- [2026-05-31] 시스템 안정성 확보가 완료된 상태에서 수익화 파이프라인 자동화를 위한 데이터 추출 API 통합 가능성을 검증하는 작업을 지속하라. → 산출물 sessions/2026-05-31T22-07/developer.md
+- [2026-05-31] Designer가 정의한 마스터 템플릿 구조와 비즈니스 목표를 기반으로, 기존 자산(`final_thumbnail_concept_final_optimized.png` 등)을 활용하여 자동화된 썸네일 생성 API 또는 스크립트 구현을 위한 기술적 파이프라인(MVP) 설계안을 제시하라. → 산출물 sessions/2026-05-31T23-37/developer.md
+- [2026-06-01] Designer가 정의한 마스터 썸네일 템플릿 구조를 기반으로, 'Visual Sequence Module'의 핵심 로직 구현을 즉시 시작하고 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-01T00-07/developer.md
+- [2026-06-01] 사업팀에서 확정된 'Consistency Pack'의 VSM 통합 모델 요구사항을 분석하고, 이를 구현하기 위한 API 연동 가능성 및 기술적 파이프라인(MVP) 설계안을 제시하라. → 산출물 sessions/2026-06-01T00-37/developer.md
+- [2026-06-01] 코다리에게, Designer가 정의한 마스터 썸네일 템플릿 구조와 'Visual Sequence Module(VSM)'의 요구사항을 기반으로, 자동화된 썸네일 생성 API 또는 스크립트 구현을 위한 기술적 MVP 파이프라인 설계안을 즉시 제시하고 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-01T01-07/developer.md
+- [2026-06-01] Visual Sequence Module(VSM) 기반 자동 썸네일 생성 시스템의 End-to-End 테스트 루프를 즉시 구현하여 시스템 안정성을 확보하고, 실시간 이탈률 대시보드 구축에 필요한 데이터 스트림 수집 API 엔드포인트를 설계 및 구축하라. → 산출물 sessions/2026-06-01T01-22/developer.md
