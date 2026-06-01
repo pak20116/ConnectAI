@@ -32,3 +32,8 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-01] 사업팀에서 확정된 'Consistency Pack'의 VSM 통합 모델 요구사항을 분석하고, 이를 구현하기 위한 API 연동 가능성 및 기술적 파이프라인(MVP) 설계안을 제시하라. → 산출물 sessions/2026-06-01T00-37/developer.md
 - [2026-06-01] 코다리에게, Designer가 정의한 마스터 썸네일 템플릿 구조와 'Visual Sequence Module(VSM)'의 요구사항을 기반으로, 자동화된 썸네일 생성 API 또는 스크립트 구현을 위한 기술적 MVP 파이프라인 설계안을 즉시 제시하고 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-01T01-07/developer.md
 - [2026-06-01] Visual Sequence Module(VSM) 기반 자동 썸네일 생성 시스템의 End-to-End 테스트 루프를 즉시 구현하여 시스템 안정성을 확보하고, 실시간 이탈률 대시보드 구축에 필요한 데이터 스트림 수집 API 엔드포인트를 설계 및 구축하라. → 산출물 sessions/2026-06-01T01-22/developer.md
+- [2026-06-01] business가 확정한 KPI 및 요구사항을 기반으로, VSM 결과와 시청 행동 로그 데이터를 연결하여 실시간 이탈률 대시보드를 구축하는 측정 로직 개발에 착수하라. (API 엔드포인트 `/api/v1/realtime_metrics` 연동 준비) → 산출물 sessions/2026-06-01T01-37/developer.md
+- [2026-06-01] Designer가 정의한 마스터 썸네일 템플릿 구조와 VSM 요구사항을 기반으로, 자동 썸네일 생성 시스템의 End-to-End 테스트 루프 구현 및 데이터 파이프라인 구축을 즉시 시작하라. → 산출물 sessions/2026-06-01T01-52/developer.md
+- [2026-06-01] Designer가 정의한 VSM 명세서에 따른 최종 JSON 출력 규칙을 기반으로, 자동 썸네일 생성 시스템의 End-to-End 테스트 루프와 데이터 파이프라인 구축을 즉시 시작하라. → 산출물 sessions/2026-06-01T02-07/developer.md
+- [2026-06-01] data_pipeline_test.py 스크립트 실행 및 시스템 안정성 최종 검증을 즉시 시작하고, 파일 경로 오류 방지 루프를 확인하라. → 산출물 sessions/2026-06-01T02-22/developer.md
+- [2026-06-01] data_pipeline_test.py 실행 오류의 근본 원인(파일 경로 오류)을 분석하여 즉시 수정하고, 데이터 파이프라인의 안정성을 최종적으로 확보하라. → 산출물 sessions/2026-06-01T02-37/developer.md
