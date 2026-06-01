@@ -84,3 +84,9 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-01] pipeline_executor.py의 API 통합 및 전체 파이프라인 실행 안정성 검증을 최종 완료하여 시스템이 즉시 실행 가능한 상태로 만들고, 모든 기술적 구현에 대한 최종 보고를 준비하라. → 산출물 sessions/2026-06-01T19-22/developer.md
 - [2026-06-01] 현빈이 설계한 데이터 소스 연결 방안 및 영숙이 정의한 스키마(Extraction Source Schema, Transformation Schema)를 기반으로, `pipeline_executor.py` 내에 실제 ETL 로직을 구현하고 테스트 케이스(TC-001, TC-002 등)를 반영하여 시스템의 데이터 흐름 안정성을 확보하라. → 산출물 sessions/2026-06-01T20-37/developer.md
 - [2026-06-01] 현빈이 확정한 KPI 측정 지표(PSR, ER)와 최종 데이터 포맷(`Source`, `Process`, `Output` 구조)를 기반으로 `pipeline_executor.py`의 ETL 로직을 실제 코드에 구현하고 테스트 케이스를 반영하여 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-01T20-52/developer.md
+- [2026-06-01] 최종 확정된 데이터 포맷(`Source`, `Process`, `Output`)을 기반으로, 첫 번째 유튜브 영상 제작에 필요한 최소한의 시각적 데이터(썸네일 스토리보드)를 생성하여 Designer에게 전달할 준비를 완료하라. → 산출물 sessions/2026-06-01T21-22/developer.md
+- [2026-06-01] Designer가 확정한 System Flow 및 VCVM 규칙을 기반으로, 썸네일 자동 생성 파이프라인의 ETL 로직 구현 및 API 통합을 완료하고, KPI 대시보드 연결 테스트 케이스를 실행하라. → 산출물 sessions/2026-06-01T22-22/developer.md
+- [2026-06-01] test_pipeline_stability.py 및 test_kpi_connection.py의 테스트 실행 결과를 확보하여 ETL 로직과 KPI 연결 안정성을 최종 검증하라. → 산출물 sessions/2026-06-01T22-37/developer.md
+- [2026-06-01] 확정된 System Flow 컨셉과 VCVM 규칙을 기반으로, 썸네일 자동 생성 파이프라인의 ETL 로직 구현 및 API 통합을 최종적으로 확인하고, KPI 대시보드 연결 테스트를 완료하여 시스템 실행 가능성을 검증하라. → 산출물 sessions/2026-06-01T22-52/developer.md
+- [2026-06-01] pytest 모듈을 설치하고 환경 구성을 즉시 완료하여 테스트 환경을 복구하십시오. → 산출물 sessions/2026-06-01T23-07/developer.md
+- [2026-06-01] 확정된 시스템 안정성 확보를 위해 실패 원인 분석 및 재실행 계획을 수립하는 작업을 시작하십시오. → 산출물 sessions/2026-06-01T23-07/developer.md
