@@ -79,3 +79,8 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-01] Designer가 제공한 시각적 일관성 체크리스트(`element_rules`, `layout_constraints`)와 Mock Data를 기반으로 VCVM 모듈의 핵심 함수(`validate_color_usage`, `run_visual_checklist`)를 실제 코드로 구현하는 작업을 즉시 시작하라. → 산출물 sessions/2026-06-01T17-22/developer.md
 - [2026-06-01] 현빈이 정의한 테스트 케이스(TC-001, TC-002)에 맞춰 `validateColorUsage` 및 `run_visual_checklist` 함수에 대한 실제 코드를 검증하고 통합하여 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-01T17-37/developer.md
 - [2026-06-01] Designer가 정의한 VCVM 기준과 Mock Data를 기반으로, 실제 이미지 분석 모듈과의 통합 및 `validate_color_usage`, `run_visual_checklist` 함수 코드를 최종 검증하고 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-01T18-22/developer.md
+- [2026-06-01] Designer가 정의한 VCVM 기준과 Mock Data를 기반으로 자동화된 썸네일 생성 파이프라인의 최종 실행 스크립트 및 API 통합 코드를 작성하고 배포 준비를 완료하라. → 산출물 sessions/2026-06-01T18-37/developer.md
+- [2026-06-01] pipeline_executor.py의 안정성을 최종적으로 검증하고 API 통합 부분을 마무리하여, 시스템이 다음 단계(베타 테스트)를 즉시 실행할 수 있는 상태로 만드라. → 산출물 sessions/2026-06-01T19-07/developer.md
+- [2026-06-01] pipeline_executor.py의 API 통합 및 전체 파이프라인 실행 안정성 검증을 최종 완료하여 시스템이 즉시 실행 가능한 상태로 만들고, 모든 기술적 구현에 대한 최종 보고를 준비하라. → 산출물 sessions/2026-06-01T19-22/developer.md
+- [2026-06-01] 현빈이 설계한 데이터 소스 연결 방안 및 영숙이 정의한 스키마(Extraction Source Schema, Transformation Schema)를 기반으로, `pipeline_executor.py` 내에 실제 ETL 로직을 구현하고 테스트 케이스(TC-001, TC-002 등)를 반영하여 시스템의 데이터 흐름 안정성을 확보하라. → 산출물 sessions/2026-06-01T20-37/developer.md
+- [2026-06-01] 현빈이 확정한 KPI 측정 지표(PSR, ER)와 최종 데이터 포맷(`Source`, `Process`, `Output` 구조)를 기반으로 `pipeline_executor.py`의 ETL 로직을 실제 코드에 구현하고 테스트 케이스를 반영하여 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-01T20-52/developer.md
