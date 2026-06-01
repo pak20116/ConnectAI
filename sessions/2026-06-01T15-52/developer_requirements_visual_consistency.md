@@ -1,0 +1,1 @@
+# 자동화 썸네일 생성 품질 게이트 요구사항 (Visual Consistency Gate)
