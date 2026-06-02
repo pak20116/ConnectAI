@@ -81,3 +81,5 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-02] 최종 확정된 디자인 가이드라인(Primary Color: Dark Slate(#2C3E50), 좌측 프로세스/우측 데이터 분할)과 'The Chaos to Control' 컨셉을 엄격히 반영하여, 다음 영상에 사용될 모든 썸네일 시안의 최종 비주얼 프레임워크를 개발자가 즉시 구현할 수 있도록 구체적인 JSON 또는 YAML 형식으로 정의하고 전달하라. → 산출물 sessions/2026-06-02T00-52/designer.md
 - [2026-06-02] 최종 확정된 디자인 가이드라인(VCVM 규칙, 'The Chaos to Control' 컨셉)을 기반으로, 이미지 생성 모델(예: DALL-E 등)이 이해할 수 있는 구체적이고 최적화된 프롬프트 템플릿 세트를 개발하여 제공하라. → 산출물 sessions/2026-06-02T01-07/designer.md
 - [2026-06-02] 코다리가 정의한 KPI 지표(`VisualConsistencyScore`, `Latency_ms`)가 프롬프트 변환 로직에 의해 정확히 계산되는지 검증하는 단위 테스트 케이스를 작성하라. 이 테스트는 'The Chaos to Control' 디자인 규칙(VCVM) 준수 여부에 초점을 맞춰야 한다. → 산출물 sessions/2026-06-02T01-22/designer.md
+- [2026-06-02] 다음 영상 포맷에 적용할 디자인 규칙(VCVM)과 'The Chaos to Control' 컨셉을 기반으로, 이미지 생성 모델이 이해할 수 있는 구체적이고 최적화된 프롬프트 템플릿 세트를 최종 확정하여 제공하라. → 산출물 sessions/2026-06-02T01-37/designer.md
+- [2026-06-02] 확정된 'The Chaos to Control' 프레임워크와 VCVM 규칙을 기반으로, 이미지 생성 모델이 이해할 수 있는 구체적이고 최적화된 프롬프트 템플릿 세트를 최종 확정하여 제공하라. 이 템플릿은 VisualConsistencyScore를 극대화하도록 설계되어야 한다. → 산출물 sessions/2026-06-02T02-07/designer.md
