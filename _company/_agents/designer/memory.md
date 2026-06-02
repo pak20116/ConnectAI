@@ -73,3 +73,6 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-01] 확정된 System Flow 컨셉과 VCVM(Visual Consistency) 규칙을 기반으로, 첫 번째 영상에 사용할 썸네일 시안 3가지를 즉시 제작하고 전달하라. Primary Color(\#2C3E50)와 흐름 표현(Flow Arrow)을 명확히 반영해야 한다. → 산출물 sessions/2026-06-01T22-07/designer.md
 - [2026-06-01] 최종적으로 가장 높은 CTR을 유도할 것으로 예상되는 썸네일 컨셉(System Flow 기반)에 맞춰, 자동화 파이프라인에 바로 적용 가능한 최종 디자인 가이드라인 및 포맷 변환 스크립트를 확정하라. → 산출물 sessions/2026-06-01T22-22/designer.md
 - [2026-06-01] 확정된 System Flow 컨셉과 VCVM 규칙을 기반으로, 자동화 파이프라인에 바로 적용 가능한 최종 디자인 가이드라인 및 포맷 변환 스크립트를 확정하고 배포 준비를 완료하라. → 산출물 sessions/2026-06-01T22-52/designer.md
+- [2026-06-01] 최종 확정된 System Flow와 VCVM 규칙에 따라, 개발된 테스트 파일의 성공적인 실행을 보장하기 위해 시스템 흐름(System Flow)의 다음 단계 및 데이터 연결 로직이 정확한지 재확인하고 수정 계획을 수립하십시오. → 산출물 sessions/2026-06-01T23-22/designer.md
+- [2026-06-01] 수립된 수정 계획(Phase 1: Data Mapping 강화)을 반영하여 System Flow 내의 입력 데이터 정의와 프로세스 단계 간의 매핑 로직을 즉시 수정하십시오. → 산출물 sessions/2026-06-01T23-37/designer.md
+- [2026-06-02] youtube 에이전트가 요청한 'System Flow' 기반의 스토리보드와 썸네일 시안 초안에 대해, 확정된 디자인 가이드라인(Primary Color: Dark Slate(#2C3E50), 레이아웃 분할)을 엄격히 반영하여 디자인 컨셉을 구체화하고 최종 비주얼 방향성을 제시하라. → 산출물 sessions/2026-06-01T23-52/designer.md
