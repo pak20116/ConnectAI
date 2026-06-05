@@ -119,3 +119,5 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-05] 시스템 안정성 KPI 측정 프레임워크(`metrics/stability_monitor.py`) 구현을 위한 초기 코드 작성(Task 1.1)을 즉시 시작하여 Latency 병목 지점을 검증하고 자동화 시스템의 기반을 구축하라. → 산출물 sessions/2026-06-05T15-46/developer.md
 - [2026-06-05] Designer가 확정한 시스템 안정성 KPI(Latency_ms, VisualConsistencyScore)를 실제 테스트 데이터로 시뮬레이션하여, Sales Page에 통합될 Progress Bar/Gauge 요소의 시각화 로직 및 데이터 연동 부분을 최종 구현하고 코드를 검증하라. → 산출물 sessions/2026-06-05T16-31/developer.md
 - [2026-06-05] 시스템 안정성 KPI 측정 프레임워크(`metrics/stability_monitor.py`) 구현을 즉시 시작하여 Latency 병목 지점을 검증하고 자동화 시스템의 기반을 구축하라. → 산출물 sessions/2026-06-05T17-01/developer.md
+- [2026-06-05] 시스템 안정성 KPI 측정 프레임워크에서 도출된 Latency_ms와 VisualConsistencyScore 데이터를 Sales Page에 실시간으로 반영할 수 있는 데이터 파이프라인 구축을 즉시 시작하고, 이 데이터 연동을 위한 API 또는 스크립트 기반의 초기 구조를 설계하라. → 산출물 sessions/2026-06-05T17-16/developer.md
+- [2026-06-05] Sales Page에 실시간으로 연동될 KPI 데이터(Latency_ms, VisualConsistencyScore)의 입력 포맷과 시각화 로직에 대한 최종 디자인 사양을 Designer에게 제공하고, 게이지 컴포넌트 구현을 위한 데이터 구조를 확정하라. → 산출물 sessions/2026-06-05T17-46/developer.md
