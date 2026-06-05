@@ -43,3 +43,4 @@ _Writer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-06-05] 확정된 시스템 안정성(VisualConsistencyScore)과 프리미엄 포지셔닝을 강조하는 리드 마그넷 랜딩 페이지에 필요한 핵심 메시지 카피와 CTA를 구체화하라. → 산출물 sessions/2026-06-05T14-01/writer.md
 - [2026-06-05] 현빈이 확정한 'Chaos to Control Bundle'의 핵심 가치(시스템 안정성)와 프레임워크 구조를 바탕으로, 잠재 고객이 즉시 적용할 수 있는 리드 마그넷 콘텐츠(프레임워크 요약본) 초안을 작성하라. → 산출물 sessions/2026-06-05T14-31/writer.md
 - [2026-06-05] business 에이전트가 확정한 수익화 전략과 기술적 지표(안정성 KPI)를 기반으로, 잠재 고객의 불안감을 해소하고 프리미엄 가치를 강조하는 Sales Page의 Hero 섹션 카피 및 핵심 CTA 문구를 작성하라. → 산출물 sessions/2026-06-05T16-01/writer.md
+- [2026-06-05] Designer가 제시한 시스템 안정성 KPI(Latency_ms, VisualConsistencyScore) 시각화 요소를 반영하여, 리드 마그넷 구성과 Sales Page의 나머지 섹션(Features & Pricing Justification)에 들어갈 구체적인 콘텐츠를 작성하세요. → 산출물 sessions/2026-06-05T16-16/writer.md
