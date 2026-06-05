@@ -116,3 +116,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-05] Designer가 제시한 시각 시스템(#2C3E50, #1ABC9C 등)이 실제 배포 시스템(Sales Page)에 통합될 때 발생할 수 있는 잠재적 Latency_ms 문제를 검증하고, 이를 바탕으로 디자인 파이프라인의 기술적 구현 로드맵을 최종 확정하라. → 산출물 sessions/2026-06-05T15-01/developer.md
 - [2026-06-05] 확정된 기술 구현 로드맵(`latency_and_pipeline_roadmap.md`)에 따라, 시스템 안정성 KPI(Latency_ms) 측정 및 모니터링 프레임워크 구축(Task 1.1)을 즉시 시작하여 Latency 병목 지점을 실시간으로 검증하라. → 산출물 sessions/2026-06-05T15-16/developer.md
 - [2026-06-05] VisualConsistencyScore 및 Latency_ms 측정 프레임워크를 기반으로 썸네일 자동화 시스템 구현을 위한 초기 스크립트 구조와 API 통합 계획을 수립하라. → 산출물 sessions/2026-06-05T15-31/developer.md
+- [2026-06-05] 시스템 안정성 KPI 측정 프레임워크(`metrics/stability_monitor.py`) 구현을 위한 초기 코드 작성(Task 1.1)을 즉시 시작하여 Latency 병목 지점을 검증하고 자동화 시스템의 기반을 구축하라. → 산출물 sessions/2026-06-05T15-46/developer.md
