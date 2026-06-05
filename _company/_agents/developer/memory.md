@@ -97,3 +97,15 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-02] Designer가 제공한 최종 디자인 프레임워크를 기반으로, 썸네일 자동화 시스템(ThumbnailOrchestrator)에 필요한 API 입력 포맷을 정의하고, Prompt 변환 로직의 안정성을 검증하라. → 산출물 sessions/2026-06-02T01-07/developer.md
 - [2026-06-02] Designer가 정의한 최종 디자인 프레임워크(VCVM 규칙 및 'The Chaos to Control' 컨셉)를 기반으로, 썸네일 자동화 시스템의 핵심 로직이 이 지표들을 정확히 계산하도록 보장하는 테스트 환경과 코드를 준비하라. → 산출물 sessions/2026-06-02T01-22/developer.md
 - [2026-06-02] Designer가 제공한 최종 디자인 프레임워크(VCVM 규칙)를 기반으로, 썸네일 자동화 시스템의 핵심 로직이 VisualConsistencyScore와 Latency_ms 지표를 정확히 계산하도록 보장하는 단위 테스트 환경 및 코드를 완성하여 통합하라. → 산출물 sessions/2026-06-02T01-52/developer.md
+- [2026-06-02] Designer가 제공한 최종 디자인 프레임워크(VCVM 규칙)와 KPI 지표(`VisualConsistencyScore`, `Latency_ms`)를 기반으로, 썸네일 자동화 시스템의 핵심 로직이 이 지표들을 정확히 계산하도록 보장하는 단위 테스트 환경 및 코드를 완성하여 통합하라. → 산출물 sessions/2026-06-02T02-07/developer.md
+- [2026-06-02] Designer가 제공한 최종 디자인 프레임워크(VCVM 규칙, 'The Chaos to Control' 컨셉)를 기반으로, 썸네일 자동화 시스템의 핵심 로직이 VisualConsistencyScore와 Latency_ms 지표를 정확히 계산하도록 보장하는 단위 테스트 환경 및 코드를 완성하여 통합하라. → 산출물 sessions/2026-06-02T02-17/developer.md
+- [2026-06-02] 코다리가 작성한 VisualConsistencyScore 및 Latency_ms 지표를 기반으로 썸네일 자동화 시스템의 핵심 로직을 실제 파이프라인에 통합하고 최종 안정성을 확보하는 작업을 우선 실행하라. → 산출물 sessions/2026-06-02T02-32/developer.md
+- [2026-06-02] VisualConsistencyScore 및 Latency_ms 지표가 정확히 계산되도록 썸네일 자동화 시스템의 핵심 로직에 대한 최종 단위 테스트를 수행하고, 모든 성공/실패 로그 포맷을 디자인 가이드라인에 맞춰 표준화하여 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-02T02-37/developer.md
+- [2026-06-02] 실패 로그(`Exit Code 1`)를 분석하여 핵심 로직의 안정성을 확보하기 위한 Fail-Safe 메커니즘을 즉시 구현하고, 모든 성공/실패 로그 포맷을 디자인 가이드라인에 맞춰 표준화하여 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-02T03-02/developer.md
+- [2026-06-02] VisualConsistencyScore와 Latency_ms 지표가 정확히 계산되도록 썸네일 자동화 시스템의 핵심 로직에 대한 최종 단위 테스트를 실행하고, 모든 성공/실패 로그 포맷을 디자인 가이드라인에 맞춰 표준화하여 시스템 안정성을 확보하라. → 산출물 sessions/2026-06-02T03-07/developer.md
+- [2026-06-02] 파일 경로 오류 원인을 즉시 분석하고, `run_final_deployment_test.py`를 재실행하여 썸네일 자동화 시스템의 안정성을 최종 검증하십시오. 모든 성공/실패 로그 포맷을 디자인 가이드라인에 맞춰 표준화해야 합니다. → 산출물 sessions/2026-06-02T03-17/developer.md
+- [2026-06-02] 파일 경로 오류 원인을 최종 분석하고 `run_final_deployment_test.py`를 재실행하여 썸네일 자동화 시스템의 안정성을 완벽히 검증하며, 모든 성공/실패 로그 포맷을 디자인 가이드라인에 맞춰 표준화하십시오. → 산출물 sessions/2026-06-02T03-32/developer.md
+- [2026-06-02] 이전 실행 실패 로그(`Exit Code 2`)와 파일 경로 오류 원인을 최종 분석하고, `run_final_deployment_test.py`를 성공적으로 재실행하여 시스템 안정성을 확보해야 합니다. 모든 성공/실패 로그 포맷을 디자인 가이드라인에 맞춰 표준화하는 작업을 즉시 진행하십시오. → 산출물 sessions/2026-06-02T03-37/developer.md
+- [2026-06-05] 코다리: Designer가 제시한 'Chaos to Control' 프레임워크 및 VCVM 규칙을 기반으로 썸네일 자동화 시스템의 로그 포맷 표준화와 디자인 파이프라인 통합을 최종적으로 실행하고, VisualConsistencyScore 측정 로직을 활성화하여 안정성을 확보하라. → 산출물 sessions/2026-06-05T08-46/developer.md
+- [2026-06-05] 썸네일 자동화 시스템의 최종 안정성 확보를 위해 VisualConsistencyScore 측정 로직이 디자인 파이프라인에 완벽하게 통합되었는지 검증하고, 모든 성공/실패 로그 포맷을 디자인 가이드라인(VCVM)에 맞게 표준화하는 작업을 즉시 실행하라. → 산출물 sessions/2026-06-05T09-01/developer.md
+- [2026-06-05] VisualConsistencyScore 측정 로직과 로그 포맷 표준화가 디자인 파이프라인에 완벽하게 통합되었는지 재검증하고, 시스템 안정성을 확보하는 데 필요한 최종 검증 보고서를 작성하십시오. → 산출물 sessions/2026-06-05T09-46/developer.md
