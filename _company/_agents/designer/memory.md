@@ -110,3 +110,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-06-05] Business 에이전트가 확정한 핵심 메시지 및 CTA 카피를 반영하여 Sales Page의 나머지 레이아웃을 완성하고, Latency_ms와 VisualConsistencyScore를 시각적으로 증명하는 게이지 컴포넌트가 최종적으로 통합된 프로토타입 디자인을 완료하라. → 산출물 sessions/2026-06-05T16-46/designer.md
 - [2026-06-05] 개발팀이 제공할 KPI 데이터(Latency_ms, VisualConsistencyScore)가 Sales Page의 게이지 컴포넌트에 정확히 매핑되도록, 데이터 입력 포맷과 시각화 로직에 대한 최종 디자인 사양을 확정하고 코다리에게 전달할 준비를 하라. → 산출물 sessions/2026-06-05T17-16/designer.md
 - [2026-06-05] 현빈이 정의한 예측 모델(SSCP) 결과와 코다리가 확정한 시스템 안정성 KPI(Latency_ms, VisualConsistencyScore)를 시각적으로 증명하는 게이지 컴포넌트가 최종적으로 통합된 Sales Page 프로토타입 디자인을 완성하고, 데이터 매핑 규칙을 최종 확인하라. → 산출물 sessions/2026-06-05T17-46/designer.md
+- [2026-06-05] 개발팀이 제공할 KPI 데이터(Latency_ms, VisualConsistencyScore)가 Sales Page의 게이지 컴포넌트에 정확히 매핑되도록 디자인 사양을 확정하고, 구현될 코드를 반영하여 최종 Sales Page 프로토타입 디자인에서 시각적 흐름(Visual Flow)을 마지막으로 점검하고 완성하십시오. → 산출물 sessions/2026-06-05T18-01/designer.md
