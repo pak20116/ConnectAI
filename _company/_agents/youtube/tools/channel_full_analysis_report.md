@@ -207,3 +207,30 @@
 - 💗 참여율 10.22% — 매우 좋음. 시청자와 강한 연결 구축됨, 상품·멤버십 도입 고려 시점
 
 ---
+
+
+# 📈 채널 완전 분석 — 2026-06-06 20:12
+채널: **Echoes Of Everyday** · 구독자 **19** · 영상 **17**개
+
+## 최근 30일 통계
+- 업로드: 12개
+- 조회수 중간값: **121**
+- 평균 참여율: **10.24%**
+- 평균 영상 길이: **2h 11m**
+
+## 🔥 떡상 영상 (3개)
+- 634회 · Sunny Café Escape ☀️ Uplifting Soft Pop Groove & Chill LoFi Playlist for Relax & Study
+- 227회 · [Caution] This Video For Productivity Boosters! ☀️ 2.5 Hours Uplifting Lo-Fi Mellow & Soft Pop
+- 184회 · Morning Focus ☕ 2.5 Hours of Uplifting Soft Pop & Lo-Fi Chill for Deep Work
+
+## 🥶 부진 영상 (3개)
+- 58회 · Coffee & Sunshine: Smooth Grooves to Start Your Day ☕☀️
+- 51회 · 2.5 Hours Sunny Café Vibes ☀️ Warm Melodies for Study & Focus | Uplifting Smooth Pop & Jazz
+- 38회 · POV: You Found the Perfect Sunny Café ☕🌸
+
+## 🧭 다음 액션 (자동 추천)
+- 🔥 떡상한 3개 영상의 제목·후크 패턴을 다음 영상에 적용 — 가장 잘 된 후크는 "Sunny Café Escape ☀️ Uplifting Soft Pop Groove & C"
+- 🥶 부진한 3개는 썸네일 A/B 테스트 또는 제목 리네이밍 후보
+- 💗 참여율 10.24% — 매우 좋음. 시청자와 강한 연결 구축됨, 상품·멤버십 도입 고려 시점
+
+---
