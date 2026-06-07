@@ -1,0 +1,13 @@
+{
+  "system_name": "ThumbnailOrchestrator",
+  "metrics": [
+    {"name": "SuccessRate", "description": "최종 이미지 생성 성공 비율 (API 응답 기준)", "unit": "Percentage"},
+    {"name": "ErrorRate", "description": "프롬프트 변환/처리 중 발생한 오류 비율", "unit": "Percentage"},
+    {"name": "VisualConsistencyScore", "description": "VCVM 규칙 준수율 (디자인 프레임워크 일치도)", "unit": "Score (0-100)"},
+    {"name": "Latency_ms", "description": "전체 자동화 프로세스 소요 시간", "unit": "Milliseconds"}
+  ],
+  "data_flow_requirements": [
+    "SuccessRate와 ErrorRate는 각 썸네일 작업별로 집계되어야 함.",
+    "VisualConsistencyScore는 입력 프롬프트와 최종 결과 이미지의 시각적 분석을 통해 산출되어야 하며, 이는 Designer의 JSON 규칙에 대한 준수 여부를 반영해야 함."
+  ]
+}
